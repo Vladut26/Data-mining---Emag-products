@@ -1,0 +1,5 @@
+.vscode
+venv
+produse_campanie.csv
+analiza_preturi.csv
+chart_data_raw.csv
